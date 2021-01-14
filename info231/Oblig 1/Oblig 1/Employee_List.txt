@@ -1,0 +1,38 @@
+ Name: David Ronen. IDnumber: 1
+ My shifts: 
+Date: 15-02-11. 
+Start time: 08:00. 
+End time: 16:00. 
+Comment: TEST_1. 
+Date: 16-02-11. 
+Start time: 16:00. 
+End time: 24:00. 
+Comment: TEST_2. 
+Date: 17-02-11. 
+Start time: 01:00. 
+End time: 08:00. 
+Comment: TEST_3. 
+Date: 18-02-11. 
+Start time: 08:00. 
+End time: 16:00. 
+Comment: TEST_4. 
+Date: 19-02-11. 
+Start time: 16:00. 
+End time: 24:00. 
+Comment: TEST_5. 
+Date: 20-02-11. 
+Start time: 08:00. 
+End time: 16:00. 
+Comment: TEST_6. 
+Date: 21-02-11. 
+Start time: 16:00. 
+End time: 24:00. 
+Comment: TEST_7. 
+
+ Name: espen kleivane. IDnumber: 2
+ My shifts: 
+Date: 12-03-11. 
+Start time: 08:00. 
+End time: 16:00. 
+Comment: teste3. 
+

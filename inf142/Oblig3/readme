@@ -1,0 +1,8 @@
+Denne innlevering gjelder David Ronen dro068 og Jan Espen Kleivane jkl070.
+
+I denne implementasjonen har vi laget en form for congestion kontroll i run metoden hos klieneten.
+Den er implementert slik at hvis transmission delay (Relay) er for stor, 
+vil ikke flere pakker bli sendt selv om time out skjer.
+Terskelen står nå på 6000 ms, 
+dvs at hvis dere setter en større delay i Relay må dere justere terskelen (store = boolean variable i klieneten) i run metoden.
+

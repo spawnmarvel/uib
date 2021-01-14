@@ -1,0 +1,2631 @@
+1,Cleveland, OH
+2,Orlando, FL
+3,Chicago, IL
+4,Miami, FL
+5,Milwaukee, WI
+6,Minneapolis/St. Paul, MN
+7,New Orleans, LA
+8,Omaha, NE
+9,Norfolk, VA
+10,West Palm Beach/Palm Beach, FL
+11,Philadelphia, PA
+12,Phoenix, AZ
+13,Pittsburgh, PA
+14,Raleigh/Durham, NC
+15,Rochester, NY
+16,Ft. Myers, FL
+17,Louisville, KY
+18,San Francisco, CA
+19,Sarasota/Bradenton, FL
+20,St. Louis, MO
+21,Syracuse, NY
+22,Tampa, FL
+23,Knoxville, TN
+24,Port Angeles, WA
+25,Portland, OR
+26,Seattle, WA
+27,Yakima, WA
+28,Charlotte, NC
+29,Augusta, GA
+30,Atlanta, GA
+31,Asheville, NC
+32,Hartford, CT
+33,Birmingham, AL
+34,Nashville, TN
+35,Boston, MA
+36,Baltimore, MD
+37,Columbia, SC
+38,Chattanooga, TN
+39,Charlottesville, VA
+40,Charleston, SC
+41,Columbus, OH
+42,Charleston/Dunbar, WV
+43,Cincinnati, OH
+44,Daytona Beach, FL
+45,Dayton, OH
+46,Washington, DC
+47,Denver, CO
+48,Dallas/Ft.Worth, TX
+49,Detroit, MI
+50,Newark, NJ
+51,Fayetteville, NC
+52,Fort Lauderdale, FL
+53,Gainesville, FL
+54,Greensboro/High Point, NC
+55,Greenville/Spartanburg, SC
+56,Ashland, WV
+57,Houston, TX
+58,Wilmington, NC
+59,Indianapolis, IN
+60,Kinston, NC
+61,Jacksonville, FL
+62,New York, NY
+63,Las Vegas, NV
+64,Los Angeles, CA
+65,Lexington/Frankfort, KY
+66,Lynchburg, VA
+67,Kansas City, MO
+68,Memphis, TN
+69,Melbourne, FL
+70,Myrtle Beach, SC
+71,Jacksonville/Camp Lejeune, NC
+72,Pensacola, FL
+73,Providence, RI
+74,Richmond, VA
+75,Roanoke, VA
+76,San Antonio, TX
+77,Savannah, GA
+78,San Juan, PR
+79,Tallahassee, FL
+80,Bristol/Kngsprt/Jhnsn Cty, TN
+81,Huntsville, AL
+82,Harrisburg, PA
+83,Champaign/Urbana, IL
+84,Fort Wayne, IN
+85,Peoria, IL
+86,Colorado Springs, CO
+87,Gunnison, CO
+88,Wichita, KS
+89,Pueblo, CO
+90,Salt Lake City, UT
+91,Casper, WY
+92,Rapid City, SD
+93,Corpus Christi, TX
+94,Dallas, TX
+95,Columbus, GA
+96,Austin, TX
+97,Jackson/Vicksburg, MS
+98,Little Rock, AR
+99,Portland, ME
+100,International Airport, CA
+101,Wausau/Marshfield, WI
+102,Appleton, WI
+103,Green Bay/Clintonville, WI
+104,Oshkosh, WI
+105,Albuquerque, NM
+106,Amarillo, TX
+107,El Paso, TX
+108,Lubbock, TX
+109,Midland/Odessa, TX
+110,Oklahoma City, OK
+111,Tulsa, OK
+112,Albany, NY
+113,Anchorage, AK
+114,Kalamazoo, MI
+115,Akron/Canton, OH
+116,Chicopee Falls, MA
+117,Evansville, IN
+118,Flint, MI
+119,Grand Rapids, MI
+120,Lansing, MI
+121,South Bend, IN
+122,Toledo, OH
+123,Burlington, VT
+124,Buffalo, NY
+125,Islip, NY
+126,Mobile, AL
+127,Abilene, TX
+128,Aspen, CO
+129,Billings, MT
+130,Bismarck/Mandan, ND
+131,Boise, ID
+132,Baton Rouge, LA
+133,Burbank, CA
+134,Bozeman, MT
+135,Cedar Rapids/Iowa City, IA
+136,Durango, CO
+137,Des Moines, IA
+138,Eugene, OR
+139,Fargo, ND
+140,Fresno, CA
+141,Farmington, NM
+142,Sioux Falls, SD
+143,Gillette, WY
+144,Spokane, WA
+145,Grand Junction, CO
+146,Great Falls, MT
+147,Honolulu, HI
+148,Idaho Falls, ID
+149,Jackson, WY
+150,Long Beach, CA
+151,Lincoln, NE
+152,Moline, IL
+153,Madison, WI
+154,Missoula, MT
+155,Montrose/Delta, CO
+156,Oakland, CA
+157,Ontario/San Bernardino, CA
+158,Indio/Palm Springs, CA
+159,Reno, NV
+160,Santa Barbara, CA
+161,Springfield, MO
+162,San Jose, CA
+163,Sacramento, CA
+164,Santa Ana, CA
+165,Tucson, AZ
+166,Bakersfield, CA
+167,Steamboat Springs/Hayden, CO
+168,Harlingen/San Benito, TX
+169,Monroe, LA
+170,Shreveport, LA
+171,Dillingham, AK
+172,King Salmon, AK
+173,Duluth, MN
+174,Allentown/Bethlehem/Easton, PA
+175,Bangor, ME
+176,White Plains, NY
+177,Saginaw/Bay City/Midland, MI
+178,Worcester, MA
+179,Sioux City, IA
+180,Traverse City, MI
+181,Dutch Harbor, AK
+182,Fairbanks, AK
+183,Wenatchee, WA
+184,Moses Lake, WA
+185,Eagle, CO
+186,Elmira/Corning, NY
+187,Scranton/Wilkes-Barre, PA
+188,Ithaca/Cortland, NY
+189,Erie, PA
+190,Klamath Falls, OR
+191,Medford, OR
+192,Monterey, CA
+193,North Bend/Coos Bay, OR
+194,Modesto, CA
+195,Minot, ND
+196,La Crosse, WI
+197,Kalispell, MT
+198,Helena, MT
+199,Grand Forks, ND
+200,Rochester, MN
+201,Ogden, UT
+202,Kahului, HI
+203,Hilo, HI
+204,Kona, HI
+205,Lihue, HI
+206,Lanai, HI
+207,Hoolehua, HI
+208,Nome, AK
+209,Kotzebue, AK
+210,Manchester, NH
+211,Rhinelander, WI
+212,Salem, OR
+213,Oxnard/Ventura, CA
+214,Everett, WA
+215,Pendleton, OR
+216,Walla Walla, WA
+217,Pasco/Kennewick/Richland, WA
+218,Bellingham, WA
+219,Brownsville, TX
+220,Bend/Redmond, OR
+221,Newport News/Hampton, VA
+222,Flagstaff, AZ
+223,Air Force 42, CA
+224,Concord, CA
+225,Merced, CA
+226,Stockton, CA
+227,Santa Rosa, CA
+228,Sun Valley/Hailey/Ketchum, ID
+229,Twin Falls, ID
+230,Lafayette, LA
+231,Kapalua, HI
+232,Lewiston, ID
+233,Pullman, WA
+234,Mcgrath, AK
+235,Macon, GA
+236,Valparaiso, FL
+237,Reading, PA
+238,Clearfld/Philisbg/Bellefnte, PA
+239,Gulfport/Biloxi, MS
+240,Mission/Mcallen/Edinburg, TX
+241,Montgomery, AL
+242,Key West, FL
+243,Charlotte Amalie, VI
+244,Christiansted, VI
+245,Eureka/Arcata, CA
+246,Crescent City, CA
+247,Atlantic City, NJ
+248,Adak Island, AK
+249,Cold Bay, AK
+250,Shemya, AK
+251,Kodiak, AK
+252,Port Heiden, AK
+253,Aniak, AK
+254,Bethel, AK
+255,Cordova, AK
+256,Juneau, AK
+257,Prudhoe Bay/Deadhorse, AK
+258,Sandpoint, AK
+259,Sitka, AK
+260,St. Paul, AK
+261,Unalakleet, AK
+262,Yakutat, AK
+263,St. Mary's, AK
+264,Binghamton/Endct/Jhnsn Cty, NY
+265,Butte, MT
+266,Pocatello, ID
+267,Newburgh/Poughkeepsie, NY
+268,Barrow, AK
+269,Utica/Rome, NY
+270,Youngstown, OH
+271,Chico, CA
+272,Yuma, AZ
+273,Pago Pago, TT
+274,Petersburg, AK
+275,Ketchikan, AK
+276,Wrangell, AK
+277,Redding, CA
+278,Lake Tahoe, CA
+279,Rota, TT
+280,Guam, TT
+281,Saipan, TT
+282,Koror, TT
+283,San Luis Obispo/Paso Robls, CA
+284,Santa Maria, CA
+285,Sheridan, WY
+286,Scammon Bay, AK
+287,Galena, AK
+288,Johnston Island, TT
+289,Grand Canyon, AZ
+290,Kenai, AK
+291,Tinian, TT
+292,Rockford, IL
+293,Wichita Falls, TX
+294,Rifle, CO
+295,Cheyenne, WY
+296,Montgomery, NY
+297,Niagara Falls, NY
+298,Columbia/Jefferson City, MO
+299,Springfield, IL
+300,Valdez, AK
+301,Amchitka Island, AK
+302,Bedford, MA
+303,Topeka, KS
+304,Gustavus, AK
+305,Aguadilla, PR
+306,St. Petersburg, FL
+307,Newport News/Williamsburg, VA
+308,Roosevelt Roads, PR
+309,Terre Haute, IN
+310,Staunton, VA
+311,Mayaguez, PR
+312,Grandview, MO
+313,Ponce, PR
+314,New Bern/Morehead/Beaufort, NC
+315,Greenville, NC
+316,Roswell, NM
+317,Prudhoe Bay, AK
+318,Midway Island, TT
+319,Wake Island, TT
+320,Kemmerer, WY
+321,Elko, NV
+322,East Hampton, NY
+323,Scottsbluff, NE
+324,Homer, AK
+325,Waco, TX
+326,Nassau, Bahamas
+327,Montreal, Canada
+328,Toronto, Canada
+329,Victoria, Canada
+330,Cali, Colombia
+331,Can Cun, Mexico
+332,East Midlands, United Kingdom
+333,London, United Kingdom
+334,Casablanca, Morocco
+335,Cairns, Australia
+336,Copenhagen, Denmark
+337,Cartagena, Colombia
+338,Sapporo, Japan
+339,Curacao, Netherlands Antilles
+340,Frankfurt, Germany
+341,Montego Bay, Jamaica
+342,Monterrey, Mexico
+343,Christmas Island, Kiribati (Gilbert and Canton Islands)
+344,Cozumel, Mexico
+345,Hamilton, Canada
+346,Ottawa, Canada
+347,Ciudad Juarez, Mexico
+348,Manchester, United Kingdom
+349,Mexico City, Mexico
+350,Mazatlan, Mexico
+351,San Jose Del Cabo, Mexico
+352,Calgary, Canada
+353,Acapulco, Mexico
+354,Barcelona, Spain
+355,Guadalajara, Mexico
+356,Madrid, Spain
+357,Tokyo, Japan
+358,Paris, France
+359,Puerto Vallarta, Mexico
+360,St Maarten, Netherlands Antilles
+361,Dothan, AL
+362,Dakar, Senegal
+363,Denpasar, Indonesia
+364,Aruba, Aruba
+365,Freeport, Bahamas
+366,Grand Cayman, Cayman Islands
+367,Seoul, South Korea
+368,Turin, Italy
+369,Ixtapa/Zihuatanejo, Mexico
+370,Dusseldorf, Germany
+371,Toluca, Mexico
+372,Malaga, Spain
+373,Stockholm, Sweden
+374,Hamilton, Bermuda-UK
+375,Bordeaux, France
+376,Koeln/Bonn Airport, Germany
+377,Erevan, U.S.S.R. (European)
+378,Oslo, Norway
+379,Kingston, Jamaica
+380,Lisbon, Portugal
+381,Nantes, France
+382,Puerto Plata, Dominican Republic
+383,Manila, Philippines
+384,Providenciales, Turks and Caicos Islands-UK
+385,West End, Bahamas
+386,Edmonton, Canada
+387,Regina, Canada
+388,Winnipeg, Canada
+389,Manzanillo, Mexico
+390,Belize City, Belize
+391,Guatemala City, Guatemala
+392,Santa Cruz Huatulco, Mexico
+393,Roatan Island, Honduras
+394,San Salvador, El Salvador
+395,San Pedro Sula, Honduras
+396,Tegucigalpa, Honduras
+397,Laredo, TX
+398,Munich, Germany
+399,Milan, Italy
+400,Nadi, Fiji Islands
+401,North Caicos, Turks and Caicos Islands-UK
+402,Nice, France
+403,Nagoya, Japan
+404,Okinawa, Japan
+405,Amsterdam, Netherlands
+406,Brussels, Belgium
+407,Shannon, Ireland
+408,Tel Aviv, Israel
+409,Quito, Ecuador
+410,Vienna, Austria
+411,Warsaw, Poland
+412,Vancouver, Canada
+413,Zagreb, Yugoslavia
+414,Zurich, Switzerland
+415,Osaka, Japan
+416,Port Au Prince, Haiti
+417,Zanderij International Airport, Surinam
+418,Ponta Delgada, Portugal
+419,Glasgow/Prestwick, United Kingdom
+420,Pereira, Colombia
+421,Lima, Peru
+422,Quebec, Canada
+423,Kelowna, Canada
+424,Auckland, New Zealand
+425,Brisbane, Australia
+426,Bogota, Colombia
+427,Rio De Janeiro, Brazil
+428,Sao Paulo, Brazil
+429,Helsinki, Finland
+430,La Paz, Mexico
+431,Loreto, Mexico
+432,Manaus, Brazil
+433,Papeete, French Polynesia
+434,Balboa C.Z/Panama City, Panama Canal Zone
+435,Busan, South Korea
+436,Santiago, Chile
+437,San Jose, Costa Rica
+438,Sydney, Australia
+439,Terceira, Portugal
+440,Chiang Kai Shek Int, Taiwan
+441,Zacatecas, Mexico
+442,La Ceiba, Honduras
+443,Lille, France
+444,Lagos, Nigeria
+445,Las Piedras, Venezuela
+446,Saskatoon, Canada
+447,Luxembourg, Luxembourg
+448,Lyon, France
+449,Majuro, Marshall Islands
+450,Maracaibo, Venezuela
+451,Fortaleza, Brazil
+452,Glasgow, United Kingdom
+453,Keflavik/Reykjavik, Iceland
+454,Luton, United Kingdom
+455,London, Canada
+456,Medellin, Colombia
+457,Melbourne, Australia
+458,Managua, Nicaragua
+459,Marsh Harbour, Bahamas
+460,San Andres Island, Colombia
+461,Antigua, Antigua and Barbuda
+462,Asuncion, Paraguay
+463,Barranquilla, Colombia
+464,Belem, Brazil
+465,Bucaramanga, Colombia
+466,Barbados/Bridgetown, Barbados
+467,Boma, Republic Of Congo
+468,Bonaire, Netherlands Antilles
+469,Boku, Papua New Guinea
+470,Baler, Philippines
+471,Cochabamba, Bolivia
+472,Caracas, Venezuela
+473,Campinas, Brazil
+474,Buenos Aires, Argentina
+475,Grand Turk, Turks and Caicos Islands-UK
+476,Timehri Airport, Guyana
+477,Governors Harbour, Bahamas
+478,St.Georges, Grenada and South Grenadines
+479,Gothenburg, Sweden
+480,Guayaquil, Ecuador
+481,Hamburg, Germany
+482,Havana, Cuba
+483,Iquique, Chile
+484,Iquitos, Peru
+485,La Paz, Bolivia
+486,Medina, Saudi Arabia
+487,Merida, Mexico
+488,Port Of Spain, Trinidad and Tobago
+489,Pointe A Pitre, Guadeloupe-France
+490,Santo Domingo, Dominican Republic
+491,St. Lucia, St. Lucia
+492,Valencia, Spain
+493,Viru Viru Int'l Airport, Bolivia
+494,Gander, Canada
+495,Mulhouse, France
+496,Julia Creek, Australia
+497,Hong Kong, Hong Kong-China
+498,Apia, Western Samoa
+499,Andros Town, Bahamas
+500,Athens, Greece
+501,Akita, Japan
+502,Belgrade, Serbia and Montenegro
+503,Bergen, Norway
+504,Punta Cana, Dominican Republic
+505,Biak, Indonesia
+506,Sal Island, Cape Verde Islands
+507,Halifax, Canada
+508,Cairo, Arab Republic Of Egypt
+509,Maastricht, Netherlands
+510,Goose Bay, Canada
+511,Port Moresby, Papua New Guinea
+512,Tonga Tapu, Tonga
+513,Rarotongo, Cook Islands-New Zealand
+514,Rangely, CO
+515,Monrovia/Robertsfield, Liberia
+516,Yap, Micronesia
+517,Riyadh, Saudi Arabia
+518,Sondre Stromfjord, Greenland - Denmark
+519,Shanghai, China
+520,Cayenne, French Guiana-France
+521,Fort De France, Martinique-France
+522,St. Kitts, St. Kitts and Nevis
+523,Barcelona, Venezuela
+524,Bari, Italy
+525,Cap Haitien, Haiti
+526,Fukuoka, Japan
+527,Moscow, U.S.S.R. (European)
+528,Tenerife, Spain
+529,Truk, Micronesia
+530,Toulouse, France
+531,Guaymas, Mexico
+532,Hermosillo, Mexico
+533,Talara, Peru
+534,South Caicos, Turks and Caicos Islands-UK
+535,Yellowknife, Canada
+536,Camp Springs, MD
+537,Beijing, China
+538,Berlin, Berlin
+539,Arequipa, Peru
+540,Iguassu Falls, Brazil
+541,Panjgur, Pakistan
+542,St. John's, Canada
+543,Nauru, Nauru
+544,Jeddah, Saudi Arabia
+545,Amman, Jordan
+546,Budapest, Hungary
+547,Faro, Portugal
+548,Rome, Italy
+549,Genoa, Italy
+550,Geneva, Switzerland
+551,Porlamar, Venezuela
+552,Prague, Czechoslovakia
+553,Stuttgart, Germany
+554,Komatsu, Japan
+555,Kuala Lumpur, Malaysia
+556,Kwajalein, Marshall Islands
+557,Christchurch, New Zealand
+558,Sudbury, Canada
+559,Dover, DE
+560,Powell Point, Bahamas
+561,Iles De Madeleine, Canada
+562,Noumea, New Caledonia - France
+563,Ponape, Micronesia
+564,Kumamoto, Japan
+565,Hakodate, Japan
+566,Kuwait, Kuwait
+567,Marseille, France
+568,Nuremberg, Germany
+569,Delhi, India
+570,Dublin, Ireland
+571,Sanford, FL
+572,Santa Maria, Portugal
+573,St. Vincent, St. Vincent and North Grenadines
+574,Tumut, Australia
+575,Stephenville, Canada
+576,Kamloops, Canada
+577,Peterborough, Canada
+578,Windsor, Canada
+579,Kenora, Canada
+580,Birmingham, United Kingdom
+581,Cocoa Beach, FL
+582,Cardiff, United Kingdom
+583,Leon-Guanajuato, Mexico
+584,Mende, France
+585,Margarita Island, Venezuela
+586,Ramstein, Germany
+587,Miyazaki, Japan
+588,Cutral, Argentina
+589,Mendoza, Argentina
+590,Guantanamo, Cuba
+591,Misawa, Japan
+592,Newcastle, United Kingdom
+593,Connaught, Ireland
+594,Dubrovnik, Yugoslavia
+595,Hanapepe, HI
+596,Thermal, CA
+597,Moncton, Canada
+598,Prince George, Canada
+599,Osan, South Korea
+600,Old Crow, Canada
+601,Stavanger, Norway
+602,Rock Sound, Bahamas
+603,Ostend, Belgium
+604,Turku, Finland
+605,Venice, Italy
+606,Lethbridge, Canada
+607,Addis Ababa, Ethiopia
+608,Treasure Cay, Bahamas
+609,Edinburgh, United Kingdom
+610,Conakry, Guinea
+611,Oita, Japan
+612,Mildenhall, United Kingdom
+613,Miyako Jima, Japan
+614,Fort Mcmurray, Canada
+615,Schenectady, NY
+616,Montevideo, Uruguay
+617,Quonset Point, RI
+618,Marie Galante, Guadeloupe-France
+619,Greenville, MS
+620,Hannover, Germany
+621,Kamina, Papua New Guinea
+622,Mactan Island, Philippines
+623,Fort Kobbe, Panama Republic
+624,Hato Corozal, Colombia
+625,Billund, Denmark
+626,Basle, Switzerland
+627,Ljubljana, Yugoslavia
+628,Frobisher Bay, Canada
+629,Singapore, Singapore
+630,Takamatsu, Japan
+631,Thule, Greenland - Denmark
+632,Fort Dix, NJ
+633,Tijuana, Mexico
+634,Wilmington, DE
+635,Ardmore, OK
+636,Comox, Canada
+637,Tehran, Iran
+638,Belfast, United Kingdom
+639,Banjul, The Gambia
+640,El Dorado, AR
+641,Montpellier, France
+642,Resolute, Canada
+643,Obihiro, Japan
+644,Chihuahua, Mexico
+645,Brasilia, Brazil
+646,Antofagasta, Chile
+647,Cordoba, Argentina
+648,Recife, Brazil
+649,El Trompillo Airport, Bolivia
+650,Mayajigua, Cuba
+651,Algiers, Algeria
+652,St. John, Canada
+653,Charlottetown, Canada
+654,Istanbul, Turkey
+655,Rotterdam, Netherlands
+656,Santiago De Compostela, Spain
+657,Jacksonville, AR
+658,Liverpool, United Kingdom
+659,Belo Horizonte, Brazil
+660,Paraguana, Venezuela
+661,Whitehorse, Canada
+662,Anguilla, Anguilla
+663,Narssarssuaq, Greenland - Denmark
+664,Battle Creek, MI
+665,North Bay, Canada
+666,Mont Joli, Canada
+667,Deauville, France
+668,San Isidro, Dominican Republic
+669,Salvador, Brazil
+670,Bronson Creek, Canada
+671,Sault Ste Marie, MI
+672,Cape Canaveral, FL
+673,Arica, Chile
+674,Florianopolis, Brazil
+675,Sendai, Japan
+676,Nordholz, Germany
+677,Chateauroux, France
+678,Cork, Ireland
+679,Tarapoto, Peru
+680,Natal, Brazil
+681,La Romana, Dominican Republic
+682,Lhok Sukon, Indonesia
+683,Concepcion, Chile
+684,Curitiba, Brazil
+685,Porto Alegre, Brazil
+686,Portsmouth, NH
+687,San Bernardino, CA
+688,Beef Island Airport, British Virgin Islands-UK
+689,Virgin Gorda, British Virgin Islands-UK
+690,Fairfield, CA
+691,Torreon, Mexico
+692,Niigata, Japan
+693,Kagoshima, Japan
+694,Ste.Therese Point, Canada
+695,Abbotsford, Canada
+696,North Battleford, Canada
+697,East Hartford, CT
+698,Valencia, Venezuela
+699,Luzon Island, Philippines
+700,Johnny Mountain, Canada
+701,Teteboro, NJ
+702,Lourdes/Tarbes, France
+703,Brunswick, GA
+704,Freetown, Sierra Leone
+705,Tbilisi, U.S.S.R. (European)
+706,Dhahran, Saudi Arabia
+707,Caravelas, Brazil
+708,Khamis Mushait, Saudi Arabia
+709,Lajes, Portugal
+710,Pisa, Italy
+711,Oakland, MD
+712,Townsville, Australia
+713,Masirah, Oman
+714,Grand Island, NE
+715,Greenville, TX
+716,Jakarta, Indonesia
+717,Manono, Republic Of Congo
+718,Sigonella, Italy
+719,Rota, Spain
+720,Resistencia, Argentina
+721,Beauvais, France
+722,Seville, Spain
+723,Veracruz, Mexico
+724,Oaxaca, Mexico
+725,Grande Prairie, Canada
+726,Boa Vista, Brazil
+727,Holguin, Cuba
+728,Okayama, Japan
+729,Leningrad, U.S.S.R. (European)
+730,Farsund, Norway
+731,Hiroshima, Japan
+732,Hagerstown, MD
+733,Timisoara, Romania
+734,Camiri, Bolivia
+735,East Tawas, MI
+736,Fort Smith, AR
+737,Limestone, ME
+738,San Luis Potosi, Mexico
+739,Kosrae, Micronesia
+740,Aberdeen, United Kingdom
+741,Minsk, U.S.S.R. (European)
+742,Fredericton, Canada
+743,Whitesburg, KY
+744,Puerto Cabezas, Nicaragua
+745,San Diego, CA
+746,Rock Springs, WY
+747,Lake Charles, LA
+748,Tuscaloosa, AL
+749,Killeen, TX
+750,Port Hueneme, CA
+751,Panama City, FL
+752,Marion/Herrin, IL
+753,Bloomington, IL
+754,Decatur, IL
+755,Longview/Kilgor/Gladwatr, TX
+756,Burlington, IA
+757,Quincy, IL
+758,Cape Girardeau, MO
+759,Salina, KS
+760,Fayetteville, AR
+761,Joplin, MO
+762,Fort Leonard Wood, MO
+763,Altus, OK
+764,Tacoma, WA
+765,Waterloo, IA
+766,Cherry Point, NC
+767,Riverside, CA
+768,Paducah, KY
+769,Sumter, SC
+770,Stanton, MN
+771,New Haven, CT
+772,Greenbrier/Wh.Sulphur Spg, WV
+773,Beaumont/Port Arthur, TX
+774,Camp Douglas, WI
+775,Whidbey Island, WA
+776,Beaufort, SC
+777,Brainerd, MN
+778,Marana, AZ
+779,Chandler, AZ
+780,Bellaire, MI
+781,Anvik, AK
+782,Holy Cross, AK
+783,Riverton/Lander, WY
+784,Fort Dodge, IA
+785,Dubuque, IA
+786,Grayling, AK
+787,North Platte, NE
+788,Eau Claire, WI
+789,Aberdeen, SD
+790,Akiak, AK
+791,Akiachak, AK
+792,Kwethluk, AK
+793,Tuluksak, AK
+794,Eek, AK
+795,Kwigillingok, AK
+796,Quinhagak, AK
+797,Napaskiak, AK
+798,Napakiak, AK
+799,Tuntatuliak, AK
+800,Mason City, IA
+801,Lafayette, IN
+802,Pembina, ND
+803,Ely, NV
+804,International Falls, MN
+805,Muskegon, MI
+806,Marquette, MI
+807,Kaneohe Bay, HI
+808,Kongiganak, AK
+809,Kipnuk, AK
+810,Trenton, NJ
+811,Morgantown, WV
+812,Columbus, MS
+813,Liberal, KS
+814,Mountain View, CA
+815,Kushiro, Japan
+816,Coro, Venezuela
+817,Porto, Portugal
+818,Contadora, Panama Republic
+819,Ruston, LA
+820,Prince Albert, Canada
+821,Abu Dhabi, United Arab Emirates
+822,Bombay, India
+823,Lyneham, United Kingdom
+824,Nagasaki, Japan
+825,Evenes, Norway
+826,Emmen, Switzerland
+827,Riyan, People's Democratic Republic Of Yemen
+828,Mccord, AK
+829,Lusaka, Zambia
+830,South Weymouth, MA
+831,Thunder Bay, Canada
+832,Magadan, U.S.S.R. (Asian)
+833,Poza Rica, Mexico
+834,Rome, NY
+835,Entebbe/Kampala, Uganda
+836,Riga, U.S.S.R. (European)
+837,Drummond Island, MI
+838,Baguio, Philippines
+839,Vero Beach, FL
+840,Larnaca, Cyprus
+841,Las Palmas, Spain
+842,Madras, India
+843,Diyarbakir, Turkey
+844,Urmieh, Iran
+845,Bandar Seri Begawan, Brunei
+846,Panama City, Panama Republic
+847,Conroe, TX
+848,Cayman Brac, Cayman Islands
+849,Varadero, Cuba
+850,Dhaka, Bangladesh
+851,Brize Norton, United Kingdom
+852,Cebu, Philippines
+853,Jupiter, FL
+854,Castlegar/Nelson/Trail, Canada
+855,Achutupo, Panama Republic
+856,Piura, Peru
+857,Khabarovsk, U.S.S.R. (Asian)
+858,Sault Ste. Marie, Canada
+859,Manston, United Kingdom
+860,Brazzaville, Congo
+861,Tobago, Trinidad and Tobago
+862,Sam Neua, Laos
+863,Comayagua, Honduras
+864,Nuevo Laredo, Mexico
+865,Kiev, U.S.S.R. (European)
+866,Dublin, GA
+867,Saltillo, Mexico
+868,Brunswick, ME
+869,Aguascalientes, Mexico
+870,Anadyr, U.S.S.R. (Asian)
+871,Iwakuni, Japan
+872,Val D'or, Canada
+873,Barquisimeto, Venezuela
+874,Paz De Ariporo, Colombia
+875,Rosario, Argentina
+876,Sao Luiz, Brazil
+877,Vilnius, U.S.S.R. (European)
+878,Woodford, United Kingdom
+879,Santiago, Cuba
+880,Culiacan, Mexico
+881,Trieste, Italy
+882,Kota Kinabalu, Malaysia
+883,Maturin, Venezuela
+884,Bullhead City, AZ
+885,Harare, Zimbabwe
+886,Aomori, Japan
+887,Metz/Nancy, France
+888,Pellston, MI
+889,Ho Chi Minh City, Vietnam
+890,Sharjah, United Arab Emirates
+891,Abidjan, Cote d Ivoire (formerly Ivory Coast)
+892,Agadir, Morocco
+893,St. Petersburg, U.S.S.R. (European)
+894,Kimberley, Republic Of South Africa
+895,Tampico, Mexico
+896,Campbell River, Canada
+897,West Yellowstone, MT
+898,Graz, Austria
+899,Durazno, Uruguay
+900,Mexicali, Mexico
+901,Adelaide, Australia
+902,Wellington, New Zealand
+903,Perth, Australia
+904,Terrace, Canada
+905,Dominica, Dominica
+906,Exeter, United Kingdom
+907,Kochi, Japan
+908,Mayport, FL
+909,Brest, France
+910,Campo Grande, Brazil
+911,Kuopio, Finland
+912,Manzini, Swaziland
+913,Nakhon Si Thammarat, Thailand
+914,St. Francois, Guadeloupe-France
+915,Chetumal, Mexico
+916,Punta Arenas, Chile
+917,Atmautluak, AK
+918,Nunapitchuk, AK
+919,Barbers Point, HI
+920,Chifornak, AK
+921,Kasigluk, AK
+922,Nantucket, MA
+923,Hyannis, MA
+924,Bridgeport, CT
+925,Lebanon-Hanover, NH
+926,Presque Isle/Houlton, ME
+927,Garden City, KS
+928,Pierre, SD
+929,Jackson, TN
+930,Red River, ND
+931,Gary, IN
+932,Cedar City, UT
+933,Jefferson, OH
+934,Martha's Vineyrd, MA
+935,Danville, IL
+936,College Station/Bryan, TX
+937,Alexandria, LA
+938,Lawton/Fort Sill, OK
+939,San Angelo, TX
+940,Texarkana, AR
+941,Tyler, TX
+942,Mammoth Lakes, CA
+943,Anniston, AL
+944,Battle Mountain, NV
+945,Telluride, CO
+946,Nuguria, Papua New Guinea
+947,Ipil, Philippines
+948,Raduzhnyi, Russia (European)
+949,Easter Island, Chile
+950,Matsuyama, Japan
+951,Cheju, South Korea
+952,Mount Pleasant, Falkland Islands-UK
+953,Campeche, Mexico
+954,Leon, Mexico
+955,Guangzhou, China
+956,Bristol, United Kingdom
+957,Liege, Belgium
+958,Puebla, Mexico
+959,George Town, Bahamas
+960,Charleroi, Belgium
+961,Homestead, FL
+962,Ostrava, Czechoslovakia
+963,Titusville, FL
+964,Bangkok, Thailand
+965,Prague, Czech Republic
+966,Santo Domingo, Venezuela
+967,Toyama, Japan
+968,Berlin, Germany
+969,Leipzig, Germany
+970,Bremen, Germany
+971,Comodoro Rivadavia, Argentina
+972,Wilmington, OH
+973,Baku, U.S.S.R. (European)
+974,Columbia, TN
+975,Sydney, Canada
+976,Hurricane, UT
+977,Collarenebri, Australia
+978,Magadan, Russia (Asian)
+979,Thessaloniki, Greece
+980,Sofia, Bulgaria
+981,Maceio, Brazil
+982,Ivanovo, Russia (European)
+983,Kiev, Ukraine
+984,Joao Pessoa, Brazil
+985,Khabarovsk, Russia (Asian)
+986,Points North Landing, Canada
+987,Cold Lake, Canada
+988,Clovis, NM
+989,Lac La Ronge, Canada
+990,Anadyr, Russia (Asian)
+991,Perpignan, France
+992,Thumrait, Oman
+993,Villahermosa, Mexico
+994,Cuiaba, Brazil
+995,Glenview, IL
+996,Kigali, Rwanda
+997,Puerto Montt, Chile
+998,Gerona, Spain
+999,Kasba Lake, Canada
+1000,Moscow, Russia (European)
+1001,Ascension Island, St. Helena
+1002,Goiania, Brazil
+1003,Puerto Barrios, Guatemala
+1004,Yamagata, Japan
+1005,St. Petersburg, Russia (European)
+1006,Zagreb, Croatia
+1007,Summerside, Canada
+1008,Sundsvall, Sweden
+1009,Libreville, Gabon
+1010,Split, Croatia
+1011,Cassilandia, Brazil
+1012,Morelia, Mexico
+1013,Johannesburg, Republic Of South Africa
+1014,Tottori, Japan
+1015,San Salvador, Bahamas
+1016,Kristiansand, Norway
+1017,Riga, Latvia
+1018,Naples, Italy
+1019,Menado, Indonesia
+1020,Capetown, Republic Of South Africa
+1021,Minnipa, Australia
+1022,Malmo, Sweden
+1023,Bloomington, IN
+1024,Coeur D'alene, ID
+1025,Olympia, WA
+1026,Carbondale, IL
+1027,Winston-Salem, NC
+1028,Tonopah, NV
+1029,Harrison, AR
+1030,Iron Mountain/Kingsfd, MI
+1031,Springfield, OH
+1032,Hoquiam, WA
+1033,Astoria/Seaside, OR
+1034,Cody, WY
+1035,Santa Fe, NM
+1036,Akron, CO
+1037,Valdosta, GA
+1038,Meridian, MS
+1039,Florence, SC
+1040,Alton, IL
+1041,Albany, GA
+1042,Latrobe, PA
+1043,Watertown, SD
+1044,Bay St. Louis, MS
+1045,Deadhorse, AK
+1046,Alakanuk, AK
+1047,Farmingdale, NY
+1048,Minneapolis/St.Paul, MN
+1049,Los Mochis, Mexico
+1050,Mena, AR
+1051,Chub Cay, Bahamas
+1052,Ciudad Guayana, Venezuela
+1053,Quesnel, Canada
+1054,Norman Wells, Canada
+1055,Penticton, Canada
+1056,Luanda, Angola
+1057,Pisco, Peru
+1058,Trondheim, Norway
+1059,Santa Cruz De La Palma, Spain
+1060,Salzburg, Austria
+1061,Ankara, Turkey
+1062,Bergamo, Italy
+1063,Bucharest, Romania
+1064,Newport News/Wmsburg, VA
+1065,Catania, Italy
+1066,Forli, Italy
+1067,Hopkinsville, KY
+1068,Ashkhabad, Turkmenistan
+1069,Ljubljana, Slovenia
+1070,Tarawa, Kiribati (Gilbert and Canton Islands)
+1071,Niue Island, Niue-New Zealand
+1072,Mansfield, OH
+1073,Soto Cano, Honduras
+1074,Puerto Ordaz, Venezuela
+1075,Naberevnye Chelny, Russia (European)
+1076,Horta, Portugal
+1077,San Cristobal, Venezuela
+1078,Xiamen, China
+1079,Lynn Lake, Canada
+1080,La Grande, Canada
+1081,Stony Rapids, Canada
+1082,Cagliari, Italy
+1083,Ottumwa, IA
+1084,Aalborg, Denmark
+1085,Marietta, GA
+1086,Fairford, United Kingdom
+1087,Hachijo Jima Island, Japan
+1088,Andes, Colombia
+1089,Laoag, Philippines
+1090,Annapolis, MD
+1091,Tirana, Albania
+1092,Funchal, Portugal
+1093,Inuvik, Canada
+1094,Stauning, Denmark
+1095,Ancona, Italy
+1096,Ovda, Israel
+1097,Barrancabermeja, Colombia
+1098,Kaohsiung, Taiwan
+1099,Tainan, Taiwan
+1100,Goldsboro, NC
+1101,Neuquen, Argentina
+1102,Manta, Ecuador
+1103,Huron, SD
+1104,Bologna, Italy
+1105,Aberdeen, MD
+1106,Orenburg, Russia (European)
+1107,Brandon, United Kingdom
+1108,Ciudad Obregon, Mexico
+1109,Lago Agrio, Ecuador
+1110,Mogadishu, Somalia
+1111,Abuja, Nigeria
+1112,Mejit Island, Marshall Islands
+1113,Greenwood, SC
+1114,Inagua, Bahamas
+1115,Cartago, Colombia
+1116,Oran, Algeria
+1117,Petropavlovsk-Kamchatsky, Russia (Asian)
+1118,Peru, IN
+1119,White River, Canada
+1120,New Iberia, LA
+1121,Ft. Collins/Loveland, CO
+1122,Fallon, NV
+1123,St. Mary's, MD
+1124,Roma, TX
+1125,Wendover, UT
+1126,Smyrna, TN
+1127,Lompoc, CA
+1128,Escanaba, MI
+1129,Las Cruces, NM
+1130,Naples, FL
+1131,Temple, TX
+1132,Owensboro, KY
+1133,Peterson's Point, AK
+1134,Blytheville, AR
+1135,Marathon, FL
+1136,Yuzhno-Sakhalinsk, Russia (Asian)
+1137,Baku, Azerbaijan
+1138,Ufa, Russia (European)
+1139,Kerema, Papua New Guinea
+1140,Mount House, Australia
+1141,Sungei Tekai, Malaysia
+1142,South Andros, Bahamas
+1143,Sao Jose Dos Campos, Brazil
+1144,Misima Island, Papua New Guinea
+1145,Durango, Mexico
+1146,Morioka, Japan
+1147,Beloit/Janesville, WI
+1148,Masada, Israel
+1149,Tacna, Peru
+1150,Palestine, TX
+1151,Palma Mallorca, Spain
+1152,Churchill, Canada
+1153,Liberia, Costa Rica
+1154,Aviano, Italy
+1155,Tauta, Papua New Guinea
+1156,Lake City, FL
+1157,Pewek, Russia (Asian)
+1158,Medicine Hat, Canada
+1159,Karup, Denmark
+1160,Trenton, Canada
+1161,Manzanillo, Cuba
+1162,The Pas, Canada
+1163,Manama, Bahrain Island
+1164,Doha, Qatar
+1165,Alcantara, Brazil
+1166,Santiago, Dominican Republic
+1167,Tokushima, Japan
+1168,Anderson, IN
+1169,Canobie, Australia
+1170,Palermo, Italy
+1171,Maues, Brazil
+1172,Barbuda, Antigua and Barbuda
+1173,Barranca De Upia, Colombia
+1174,Nepalganj, Nepal
+1175,Plattsburg, NY
+1176,Ogoki, Canada
+1177,Gauhati, India
+1178,Marathon, Canada
+1179,Surabaya, Indonesia
+1180,Reynosa, Mexico
+1181,Kitchener, Canada
+1182,Macapa, Brazil
+1183,Florence/Sheffld/Tusc., AL
+1184,Paros, Greece
+1185,Mojave, CA
+1186,Paranagua, Brazil
+1187,San Andros, Bahamas
+1188,In Guezzam, Algeria
+1189,Gusan, South Korea
+1190,Bowling Green, KY
+1191,Cambridge, United Kingdom
+1192,Mahe Islands, Seychelles Islands
+1193,Djibouti, Djibouti
+1194,Fort St. John, Canada
+1195,Victoria, TX
+1196,Lopez Island, WA
+1197,Beckley, WV
+1198,Industry, CA
+1199,Bradford, PA
+1200,Cumberland, MD
+1201,Cortez, CO
+1202,Clarksburg/Fairmont, WV
+1203,Carlsbad, NM
+1204,Hobbs, NM
+1205,Laramie, WY
+1206,Alamogordo, NM
+1207,Silver City/Hurley, NM
+1208,Alamosa, CO
+1209,Watertown, NY
+1210,Massena, NY
+1211,Ogdensburg, NY
+1212,Gallup, NM
+1213,Lake Havasu City, AZ
+1214,Prescott, AZ
+1215,Hays, KS
+1216,Great Bend, KS
+1217,Goodland, KS
+1218,Kingman, AZ
+1219,Williamsport, PA
+1220,Inyokern, CA
+1221,Jamestown, NY
+1222,Lamar, CO
+1223,Dodge City, KS
+1224,Du Bois, PA
+1225,Franklin, PA
+1226,Eagle, AK
+1227,Fort Huachuca, AZ
+1228,New London/Groton, CT
+1229,Lancaster, PA
+1230,Worland, WY
+1231,Chalkyitsik, AK
+1232,Central, AK
+1233,Fort Yukon, AK
+1234,Venetie, AK
+1235,Beaver, AK
+1236,Palmer, AK
+1237,Parkersburg, WV
+1238,Chicken, AK
+1239,Nacogdoches, TX
+1240,Humacao, PR
+1241,Pontiac, MI
+1242,Corsicana, TX
+1243,Cocos (Keeling) Islands, Cocos Islands-Australia
+1244,Fukushima, Japan
+1245,Accra, Ghana
+1246,Nanortalik, Greenland - Denmark
+1247,Matamoros, Mexico
+1248,Earlton, Canada
+1249,Shonai, Japan
+1250,Warrensburg, MO
+1251,Dubai, United Arab Emirates
+1252,Iwo Jima, Japan
+1253,Montlucon, France
+1254,Wawa, Canada
+1255,Rabat, Morocco
+1256,Madang, Papua New Guinea
+1257,Oscoda, MI
+1258,Tianjin, China
+1259,New Bedford/Fall River, MA
+1260,Mianwali, Pakistan
+1261,Bermuda Nas, Bermuda-UK
+1262,Zaporozh'ye, Ukraine
+1263,Pastaza, Ecuador
+1264,Alexandria, Arab Republic Of Egypt
+1265,Tashkent, Uzbekistan
+1266,Ulyanovsk, Russia (European)
+1267,Chatham, Canada
+1268,Farafangana, Madagascar
+1269,Circle Hot Springs, AK
+1270,Hultsfred, Sweden
+1271,Limbunya, Australia
+1272,San Jose, Philippines
+1273,Vitoria, Brazil
+1274,Cornwall, Canada
+1275,Chiclayo, Peru
+1276,Dryden, Canada
+1277,Yangon, Myanmar
+1278,Utapao, Thailand
+1279,Sherbrooke, Canada
+1280,Timmins, Canada
+1281,Edwards, CA
+1282,Biarritz, France
+1283,Penang, Malaysia
+1284,Saguenay, Canada
+1285,Sanya, China
+1286,Ama, Papua New Guinea
+1287,Kerry County, Ireland
+1288,Mankato, MN
+1289,Hay River, Canada
+1290,Crotone, Italy
+1291,Hao Island, French Polynesia
+1292,Mccook, NE
+1293,St. Eustatius, Netherlands Antilles
+1294,Young, Australia
+1295,Antalya, Turkey
+1296,Lethem, Guyana
+1297,Vladivostok, Russia (Asian)
+1298,Westfield, MA
+1299,Basse Terre, Guadeloupe-France
+1300,Marrakech, Morocco
+1301,Bathurst, Australia
+1302,Mountain Home, ID
+1303,Biloxi, MS
+1304,Shenzhen, China
+1305,Tepic, Mexico
+1306,Subic Bay, Philippines
+1307,Rotuma, Fiji Islands
+1308,Macau, Macau
+1309,Maracay, Venezuela
+1310,Tees-Side, United Kingdom
+1311,St. George, Australia
+1312,Mount Pleasant, MI
+1313,Volgograd, Russia (European)
+1314,Monastir, Tunisia
+1315,Berne, Switzerland
+1316,Clarendon, TX
+1317,Vitoria, Spain
+1318,Huslia, AK
+1319,Kaltag, AK
+1320,Tanana, AK
+1321,Jackson, MI
+1322,Port Huron, MI
+1323,Findlay, OH
+1324,Connersville, IN
+1325,Takotna, AK
+1326,Del Rio, TX
+1327,Tupelo, MS
+1328,Togiak Fish, AK
+1329,Greenwood, MS
+1330,Nogales, AZ
+1331,St. Johns, AZ
+1332,Columbia, CA
+1333,Circle, AK
+1334,Detroit Lakes, MN
+1335,Anderson, SC
+1336,Brigham City, UT
+1337,Mount Vernon, IL
+1338,Big Spring, TX
+1339,Lima, OH
+1340,Crossville, TN
+1341,Middletown, OH
+1342,Wooster, OH
+1343,Stevens Village, AK
+1344,Hughes, AK
+1345,Noatak, AK
+1346,Nulato, AK
+1347,Keokuk, IA
+1348,Xichang, China
+1349,Tunis, Tunisia
+1350,Guerima, Colombia
+1351,Kunming, China
+1352,Basra, Iraq
+1353,Bondoukou, Cote d Ivoire (formerly Ivory Coast)
+1354,Pinheiro, Brazil
+1355,Qingdao, China
+1356,El Monte, CA
+1357,Paderborn, Germany
+1358,Balboa, Panama Republic
+1359,Taiyuan, China
+1360,Bukhara, Uzbekistan
+1361,Bureta, Fiji Islands
+1362,Trois Rivieres, Canada
+1363,Ciudad Del Este, Paraguay
+1364,Salmon Arm, Canada
+1365,Bournemouth, United Kingdom
+1366,St. Catharines, Canada
+1367,Saidu Sharif, Pakistan
+1368,El Yopal, Colombia
+1369,Leeds/Bradford, United Kingdom
+1370,Macae, Brazil
+1371,Middle Caicos, Turks and Caicos Islands-UK
+1372,Victorville, CA
+1373,Dresden, Germany
+1374,Bandar Lengeh, Iran
+1375,Page, AZ
+1376,Council Bluffs, IA
+1377,Dawson City, Canada
+1378,Baramita, Guyana
+1379,Kamuela, HI
+1380,Tete, Mozambique
+1381,Yeovilton, United Kingdom
+1382,Flores, Guatemala
+1383,Alotau, Papua New Guinea
+1384,Teresina, Brazil
+1385,Nogales, Mexico
+1386,Mirnyj, Russia (Asian)
+1387,Williams Lake, Canada
+1388,Arkhangel'sk, Russia (European)
+1389,Verona, Italy
+1390,North Kingstown, RI
+1391,Tucuman, Argentina
+1392,Samara, Russia (European)
+1393,Danville, VA
+1394,Surfers Paradise, Australia
+1395,Cape Rodney, Papua New Guinea
+1396,Ube, Japan
+1397,Yonago, Japan
+1398,Shenyang, China
+1399,Trujillo, Peru
+1400,Macenta, Guinea
+1401,Santa Isabel Do Morro, Brazil
+1402,Jambi, Indonesia
+1403,Manus Isl., Papua New Guinea
+1404,Goma, Republic Of Congo
+1405,Kennewick, WA
+1406,Siuna, Nicaragua
+1407,Santarem, Brazil
+1408,Tallinn, Estonia
+1409,Barahona, Dominican Republic
+1410,Hat Yai, Thailand
+1411,Bonaventure, Canada
+1412,Queretaro, Mexico
+1413,Honiara, Solomon Islands
+1414,Los Alamos, NM
+1415,Muncie/Anderson/Newcastle, IN
+1416,Winchester, VA
+1417,Goodyear, AZ
+1418,Athens, GA
+1419,Farmington, MO
+1420,Banning, CA
+1421,Kokomo/Logansport/Peru, IN
+1422,Birch Creek, AK
+1423,Morristown, TN
+1424,Martinsburg, WV
+1425,Coalinga, CA
+1426,Fillmore, UT
+1427,Benton Harbor/St. Joseph, MI
+1428,St. Cloud, MN
+1429,Bemidji, MN
+1430,Thief River Falls, MN
+1431,Grand Rapids, MN
+1432,Hancock/Houghton, MI
+1433,Ely, MN
+1434,Altoona, PA
+1435,Chisholm/Hibbing, MN
+1436,Kenosha, WI
+1437,Rampart, AK
+1438,Belleville, IL
+1439,Seward, AK
+1440,Elim, AK
+1441,Mackinac Island, MI
+1442,Gold Beach, OR
+1443,La Grange, GA
+1444,Lawrence, MA
+1445,Napuka Islnd, French Polynesia
+1446,Attawapiskat, Canada
+1447,Mount Pleasant, TX
+1448,Nyac, AK
+1449,Hahn, Germany
+1450,Floro, Norway
+1451,Ohakea, New Zealand
+1452,Izumo, Japan
+1453,Korhogo, Cote d Ivoire (formerly Ivory Coast)
+1454,Hickory, NC
+1455,Sena Maduereira, Brazil
+1456,Malta Island, Malta
+1457,Seven Islands, Canada
+1458,Bamako, Mali
+1459,Blanding, UT
+1460,Salta, Argentina
+1461,Twentynine Palms, CA
+1462,Hall Beach, Canada
+1463,Orapa, Botswana
+1464,Montserrat, Montserrat
+1465,Taegu, South Korea
+1466,Asbestos Hill, Canada
+1467,Opapamiska Lake, Canada
+1468,Norwich, United Kingdom
+1469,Humberside, United Kingdom
+1470,Patuxent River, MD
+1471,Santa Maria, Brazil
+1472,Mary's Harbour, Canada
+1473,Alpena, MI
+1474,Harbin, China
+1475,Mandeville, Jamaica
+1476,Chania, Greece
+1477,Port Lions, AK
+1478,Jomo Kenyatta Int, Kenya
+1479,Pascagoula, MS
+1480,Polyarnyj, Russia (Asian)
+1481,Tulare, CA
+1482,Ahmedabad, India
+1483,Pyong Yang, North Korea
+1484,Shelton, WA
+1485,Chimbote, Peru
+1486,Orocue, Colombia
+1487,Asahikawa, Japan
+1488,Clarks Point, AK
+1489,Beaver Inlet, AK
+1490,Calcutta, India
+1491,Brno, Czech Republic
+1492,Russe, Bulgaria
+1493,Bhamo, Myanmar
+1494,Maseru, Lesotho
+1495,Alenquer, Brazil
+1496,Nashua, NH
+1497,Latacunga, Ecuador
+1498,Tampere, Finland
+1499,Bangalore, India
+1500,Lae, Papua New Guinea
+1501,Alicante, Spain
+1502,Powell River, Canada
+1503,Krakow, Poland
+1504,Eagle Pass, TX
+1505,Big Delta, AK
+1506,Houma, LA
+1507,Roosevelt, UT
+1508,Decatur, AL
+1509,Carlsbad, CA
+1510,El Centro, CA
+1511,Houlton, ME
+1512,Bettles, AK
+1513,Utopia, AK
+1514,Millinocket, ME
+1515,Cut Bank, MT
+1516,Denali National Park, AK
+1517,Gainesville, GA
+1518,Bagdad, AZ
+1519,St. Joseph, MO
+1520,Pickens, SC
+1521,Waterbury, CT
+1522,Truckee, CA
+1523,Hondo, TX
+1524,Winder, GA
+1525,Port Said, Arab Republic Of Egypt
+1526,Jabiru, Australia
+1527,Madera, CA
+1528,Goba, Ethiopia
+1529,Puerto Deseado, Argentina
+1530,Asosa, Ethiopia
+1531,Laarbruch, Germany
+1532,Lost Harbor, AK
+1533,Ciudad Del Carmen, Mexico
+1534,Chino, CA
+1535,Pine Cay, Turks and Caicos Islands-UK
+1536,Puerto Rico, Bolivia
+1537,Swift Current, Canada
+1538,Port Harcourt, Nigeria
+1539,Cape Eleuthera, Bahamas
+1540,Atqasuk, AK
+1541,Alamos, Mexico
+1542,Crisciuma, Brazil
+1543,Calipatria, CA
+1544,Maicao, Colombia
+1545,Oviedo, Spain
+1546,Pa-An, Myanmar
+1547,Carnarvon, Australia
+1548,Cortina D'ampezzo, Italy
+1549,Rhodes, Greece
+1550,Orebro, Sweden
+1551,Tuktoyaktuk, Canada
+1552,Port Hardy, Canada
+1553,Bromont, Canada
+1554,Satu Mare, Romania
+1555,Porto Velho, Brazil
+1556,Maitland, Australia
+1557,Londrina, Brazil
+1558,Gloucester/Cheltenham, United Kingdom
+1559,Davao, Philippines
+1560,Esmeraldas, Ecuador
+1561,Digby Island, Canada
+1562,Angers, France
+1563,Bosaso, Somalia
+1564,Cat Cay, Bahamas
+1565,Skwentna, AK
+1566,Changsha, China
+1567,Lvov, Ukraine
+1568,Klagenfurt, Austria
+1569,Mayo, Canada
+1570,Moultrie/Thomasville Airport, GA
+1571,Tuxtla Gutierrez, Mexico
+1572,Genting, Malaysia
+1573,Fort Myers, FL
+1574,Guayaramerin, Bolivia
+1575,Tapachula, Mexico
+1576,Pretoria, Republic Of South Africa
+1577,Tehachapi, CA
+1578,Menongue, Angola
+1579,Campbeltown, United Kingdom
+1580,Cape Gloucester, Papua New Guinea
+1581,Oshawa, Canada
+1582,Colonia, Uruguay
+1583,Daru, Papua New Guinea
+1584,Melilla, Spain
+1585,Pelotas, Brazil
+1586,Rocky Mount, NC
+1587,Clinton, OK
+1588,Douglas, AZ
+1589,Eagle River, WI
+1590,Broomfield, CO
+1591,Anaktuvuk Pass, AK
+1592,Chandalar, AK
+1593,Wainwright, AK
+1594,Point Lay, AK
+1595,Coldfoot, AK
+1596,Athens, TN
+1597,Jamestown, ND
+1598,Marshall, MN
+1599,Renton, WA
+1600,Koyukuk, AK
+1601,Bedford, IN
+1602,Ambler, AK
+1603,Dhala, Yemen
+1604,Stony River, AK
+1605,Bird Island, Seychelles Islands
+1606,Lahore, Pakistan
+1607,Pasto, Colombia
+1608,Galcaio, Somalia
+1609,Kirkuk, Iraq
+1610,Cat Island, Bahamas
+1611,Labasa, Fiji Islands
+1612,Manokotak, AK
+1613,Brueggen, Germany
+1614,Santa Rosa, Bolivia
+1615,Eindhoven, Netherlands
+1616,Mayaguana, Bahamas
+1617,Planadas, Colombia
+1618,Willow Grove, PA
+1619,Candle, AK
+1620,Camaguey, Cuba
+1621,Lotusvale, Australia
+1622,Puttaparthi, India
+1623,San Antonio, Venezuela
+1624,Marudi, Malaysia
+1625,Falmouth, MA
+1626,Middlemount, Australia
+1627,Alma, MI
+1628,Sandnessjoen, Norway
+1629,Reykjavik, Iceland
+1630,Coll Island, United Kingdom
+1631,Nonouti, Kiribati (Gilbert and Canton Islands)
+1632,Ciudad Mante, Mexico
+1633,Taszar, Bosnia and Herzegovina
+1634,Mompos, Colombia
+1635,Salt Cay, Turks and Caicos Islands-UK
+1636,Sagarai, Papua New Guinea
+1637,St. Croix, VI
+1638,Tuzla, Bosnia and Herzegovina
+1639,Nevis, St. Kitts and Nevis
+1640,Nakashibetsu, Japan
+1641,Anaco, Venezuela
+1642,Bom Jesus Da Lapa, Brazil
+1643,Derby, Australia
+1644,Ponta Pelada, Brazil
+1645,Laurel/Hattiesburg, MS
+1646,Makoua, Congo
+1647,Camden, AR
+1648,Boca Raton, FL
+1649,Duncan, OK
+1650,Hanoi, Vietnam
+1651,Skopje, Macedonia
+1652,Arthurs Town, Bahamas
+1653,Muskoka, Canada
+1654,Xi An, China
+1655,Milos, Greece
+1656,Grenoble, France
+1657,Georgetown, DE
+1658,Jujuy, Argentina
+1659,Rovaniemi, Finland
+1660,Magdalena, Bolivia
+1661,Zaragoza, Spain
+1662,Tanacross, AK
+1663,Bria, Central African Republic
+1664,Mangochi, Malawi
+1665,Egilsstadir, Iceland
+1666,Coolawanyah, Australia
+1667,Kingston, Canada
+1668,Allakaket, AK
+1669,Iliamna, AK
+1670,Emmonak, AK
+1671,Nuiqsut, AK
+1672,Marshall, MO
+1673,Marion, IN
+1674,Ruby, AK
+1675,Barter Island, AK
+1676,Jonesboro, AR
+1677,Manley Hot Springs, AK
+1678,Batesville, AR
+1679,Shelbyville/Tullahoma, TN
+1680,Malden, MO
+1681,Brooks Lodge, AK
+1682,Arctic Village, AK
+1683,Kiana, AK
+1684,Minchumina, AK
+1685,Muscatine, IA
+1686,Tatalina, AK
+1687,Elkins, WV
+1688,Port Clarence, AK
+1689,Point Hope, AK
+1690,Umiat, AK
+1691,Mattoon/Charleston, IL
+1692,Nenana, AK
+1693,Illinois Creek, AK
+1694,Stillwater, OK
+1695,Rice Lake, WI
+1696,Selma, AL
+1697,Sikeston, MO
+1698,Manhattan/Ft. Riley, KS
+1699,Minto, AK
+1700,Kobuk, AK
+1701,Sheboygan, WI
+1702,Buckland, AK
+1703,Ft. Stockton, TX
+1704,Salem, IL
+1705,Bryce Canyon, UT
+1706,Wapakoneta, OH
+1707,Mt. Clemens, MI
+1708,Prospect, AK
+1709,Beverly, MA
+1710,Provo, UT
+1711,Marinette, MI
+1712,Greeneville, TN
+1713,Kotlik, AK
+1714,Aleppo, Syrian Arab Republic
+1715,Ushuaia, Argentina
+1716,Ghardaia, Algeria
+1717,Ilo, Peru
+1718,Simla, India
+1719,Brindisi, Italy
+1720,Coventry, United Kingdom
+1721,Carmelita, Guatemala
+1722,Iqaluit, Canada
+1723,Cauayan, Philippines
+1724,Beersheba, Israel
+1725,Oruro, Bolivia
+1726,Coatesville, PA
+1727,Durban, Republic Of South Africa
+1728,Egegik, AK
+1729,Legaspi, Philippines
+1730,Memanbetsu, Japan
+1731,Bilbao, Spain
+1732,Tarakan, Indonesia
+1733,Molde, Norway
+1734,Neryungri, Russia (Asian)
+1735,Amritsar, India
+1736,Borroloola, Australia
+1737,Boscombe, United Kingdom
+1738,Indaselassie, Ethiopia
+1739,Ciego De Avila, Cuba
+1740,Nieuw Nickerie, Surinam
+1741,Puerto Princesa, Philippines
+1742,Farnborough, United Kingdom
+1743,Enid, OK
+1744,Harrogate, United Kingdom
+1745,Zlin, Czech Republic
+1746,San Fernando, Venezuela
+1747,Hearst, Canada
+1748,Coonamble, Australia
+1749,Deering, AK
+1750,Florencia, Colombia
+1751,Lorain/Elyria, OH
+1752,Andeness, Norway
+1753,Augustus Downs, Australia
+1754,Puerto Cabello, Venezuela
+1755,Tripoli, Libya
+1756,Bangui, Central African Republic
+1757,Nossi-Be, Madagascar
+1758,St. Marie, Madagascar
+1759,Kabalo, Republic Of Congo
+1760,Sharurah, Saudi Arabia
+1761,Avalalava, Madagascar
+1762,Rio Branco, Brazil
+1763,Baghdad, Iraq
+1764,Pattani, Thailand
+1765,Quang Ngai, Vietnam
+1766,Minsk, Belarus
+1767,Chengdu, China
+1768,Lyndonville, VT
+1769,Selief Bay, AK
+1770,Somerset, KY
+1771,Cape Lisburne, AK
+1772,Ocala, FL
+1773,Clinton, IA
+1774,Independence, KS
+1775,Lake Minchumina, AK
+1776,Lexington, KY
+1777,Bay City, TX
+1778,Union City, TN
+1779,Craig, CO
+1780,Statesville, NC
+1781,Hot Springs, AR
+1782,London/Corbin, KY
+1783,Denton, TX
+1784,Lonely, AK
+1785,Clarksvle/Ft.Cam/Hopksvle, TN
+1786,Dickinson, ND
+1787,Salida, CO
+1788,Bessemer, AL
+1789,Lawrenceville, GA
+1790,Waycross, GA
+1791,Flora, IL
+1792,Zanesville, OH
+1793,Scott, KY
+1794,Williston, ND
+1795,Seymour, IN
+1796,False Island, AK
+1797,Pine Mountain, GA
+1798,Johnstown, PA
+1799,Georgetown, KY
+1800,Hogatza, AK
+1801,Waukegan, IL
+1802,Freeport, IL
+1803,Savoonga, AK
+1804,Craig, AK
+1805,Hollister, CA
+1806,Dublin, VA
+1807,Cresswell Downs, Australia
+1808,Proserpine, Australia
+1809,La Desirade, Guadeloupe-France
+1810,Santo Angelo, Brazil
+1811,Mytilene, Greece
+1812,Lossiemouth, United Kingdom
+1813,Morrisville, VT
+1814,Orange, CA
+1815,Mahon, Spain
+1816,Dracena, Brazil
+1817,Cotonou, Benin (Dahomey)
+1818,Peace River, Canada
+1819,Mamai, Papua New Guinea
+1820,Bourke, Australia
+1821,Canouan, St. Vincent and North Grenadines
+1822,Muscat, Oman
+1823,Exuma, Bahamas
+1824,Kosice, Slovakia
+1825,Annette, AK
+1826,Augusta/Waterville, ME
+1827,Boufarik, Algeria
+1828,Athens, OH
+1829,Cumana, Venezuela
+1830,Lulea, Sweden
+1831,Guacamayas, Colombia
+1832,South Molle Island, Australia
+1833,Quimper, France
+1834,Cienfuegos, Cuba
+1835,Adaba, Ethiopia
+1836,Diego Garcia I., British Indian Ocean Territory-UK
+1837,Moa, Cuba
+1838,Colombo, Sri Lanka
+1839,Aguan, Papua New Guinea
+1840,Kivalina, AK
+1841,Noorvik, AK
+1842,Red Dog, AK
+1843,Shungnak, AK
+1844,Angoon, AK
+1845,Hoonah, AK
+1846,Tenakee, AK
+1847,Atka, AK
+1848,Akhiok, AK
+1849,Karluk, AK
+1850,Old Harbor, AK
+1851,Igiugig, AK
+1852,Chignik Fisheries, AK
+1853,Chignik Lagoon, AK
+1854,Chignik, AK
+1855,Ekwok, AK
+1856,Levelock, AK
+1857,Kakhonak, AK
+1858,Perryville, AK
+1859,Nondalton, AK
+1860,Pedro Bay, AK
+1861,Pilot Point, AK
+1862,St. George Island, AK
+1863,South Naknek, AK
+1864,Alitak, AK
+1865,Trident Volcano, AK
+1866,Zachar Bay, AK
+1867,Gulkana, AK
+1868,Mountain Village, AK
+1869,University/Oxford, MS
+1870,Chuathbaluk, AK
+1871,Crooked Creek, AK
+1872,Kalskag, AK
+1873,Lime Village, AK
+1874,Marshall, AK
+1875,Nightmute, AK
+1876,Red Devil, AK
+1877,Russian Mission, AK
+1878,Shageluk, AK
+1879,Sleetmute, AK
+1880,St. Michael, AK
+1881,Sheldon Point, AK
+1882,Cape Romanzof, AK
+1883,Cape Newenham, AK
+1884,Gambell, AK
+1885,Goodnews Bay, AK
+1886,Hooper Bay, AK
+1887,Mekoryuk, AK
+1888,Toksook, AK
+1889,Pilot Station, AK
+1890,Platinum, AK
+1891,Tununak, AK
+1892,Togiak, AK
+1893,Chevak, AK
+1894,Newtok, AK
+1895,Blue Fox Bay, AK
+1896,Koyuk, AK
+1897,Selawik, AK
+1898,Boundary, AK
+1899,Tok, AK
+1900,False Pass, AK
+1901,King Cove, AK
+1902,Nelson Lagoon, AK
+1903,Hydaburg, AK
+1904,Klawock, AK
+1905,Thorne Bay, AK
+1906,Whale Pass, AK
+1907,Koliganek, AK
+1908,Ekuk, AK
+1909,New Stuyahok, AK
+1910,Cube Cove, AK
+1911,Chisana, AK
+1912,Northway, AK
+1913,Diomede Island, AK
+1914,Teller Mission, AK
+1915,Wales, AK
+1916,Portage Creek, AK
+1917,Twin Hills, AK
+1918,Aleknagik, AK
+1919,Dora Bay, AK
+1920,Coffman Cove, AK
+1921,Nikolski, AK
+1922,Akutan, AK
+1923,Edna Bay, AK
+1924,Naukiti, AK
+1925,Port Protection, AK
+1926,Golovin, AK
+1927,Shaktoolik, AK
+1928,Stebbins, AK
+1929,White Mountain, AK
+1930,Elfin Cove, AK
+1931,Galbraith Lake, AK
+1932,Healy Lake, AK
+1933,Nikolai, AK
+1934,Kitoi Bay, AK
+1935,Moser Bay, AK
+1936,Port Bailey, AK
+1937,Seal Bay, AK
+1938,Uganik, AK
+1939,Fort Sill, OK
+1940,Cartersville, GA
+1941,Teller, AK
+1942,Haines, AK
+1943,Skagway, AK
+1944,English Bay, AK
+1945,Port Graham, AK
+1946,Seldovia, AK
+1947,Long Island, AK
+1948,Hollis, AK
+1949,Kasaan, AK
+1950,Smith Cove, AK
+1951,Saltery Cove, AK
+1952,Naknek, AK
+1953,Port Alsworth, AK
+1954,Pope Vanoy, AK
+1955,Gull Cove, AK
+1956,Hobart Bay, AK
+1957,Kake, AK
+1958,Lemesurier Island, AK
+1959,Pelican, AK
+1960,Bell Island, AK
+1961,Deep Bay, AK
+1962,Point Baker, AK
+1963,Meyers Chuck, AK
+1964,Larsen Bay, AK
+1965,Ouzinkie, AK
+1966,Port Williams, AK
+1967,Waterfall, AK
+1968,Tin City, AK
+1969,West Point, AK
+1970,Metlakatla, AK
+1971,Shishmaref, AK
+1972,Telida, AK
+1973,Tetlin, AK
+1974,Calder Bay, AK
+1975,Hyder, AK
+1976,Happy Harbour, AK
+1977,Keyes Point, AK
+1978,New Chenega, AK
+1979,Tatitlek, AK
+1980,Drift River, AK
+1981,Amook Bay, AK
+1982,Excursion Inlet, AK
+1983,Trading Bay, AK
+1984,Ivanof Bay, AK
+1985,Port Moller, AK
+1986,Shoal Cove, AK
+1987,Darlington, SC
+1988,Kuparuk, AK
+1989,Chena Hot Springs, AK
+1990,Chernofski, AK
+1991,Yes Bay, AK
+1992,Sitkinak, AK
+1993,Akolik, AK
+1994,Sparrevohn, AK
+1995,Morristown, NJ
+1996,Saranac Lake/Lake Placid, NY
+1997,Bartletts, AK
+1998,Sandy, AK
+1999,Painter Creek, AK
+2000,Wildman Creek, AK
+2001,Telaquana Lake, AK
+2002,Twin Lakes, AK
+2003,Tyonek, AK
+2004,Point Alsworth, AK
+2005,Fort Glenn, AK
+2006,Crestview, FL
+2007,Willmar, MN
+2008,Taku Lodge, AK
+2009,Kulik Lake, AK
+2010,Beluga, AK
+2011,Fire Island, AK
+2012,Middleton Island, AK
+2013,Little Port Walter, AK
+2014,Olga Bay, AK
+2015,Golden Creek Mine, AK
+2016,Medfra, AK
+2017,Point Lookout, MO
+2018,Storm Lake, IA
+2019,Coal Bay, AK
+2020,Chignik Lake, AK
+2021,Deadmans Bay, AK
+2022,Dahl Creek, AK
+2023,Baranof, AK
+2024,Coffee Point, AK
+2025,Big Creek, AK
+2026,Bartlett Cove, AK
+2027,Mels, AK
+2028,Pumice, AK
+2029,Katmai Lodge, AK
+2030,Flat, AK
+2031,Moses Point, AK
+2032,Talkeetna, AK
+2033,Moab, UT
+2034,Fresh Water Bay, AK
+2035,Farewell, AK
+2036,Onion Bay, AK
+2037,Mcdonald Lake, AK
+2038,Soldotna, AK
+2039,Pack Creek, AK
+2040,Port Alexander, AK
+2041,Colorado Creek, AK
+2042,Miami, OK
+2043,Badami, AK
+2044,Chelatna Lake Lodge, AK
+2045,Willow, AK
+2046,American Creek, AK
+2047,Kavik River, AK
+2048,Hawk Inlet, AK
+2049,Alpine, AK
+2050,Volcano Bay, AK
+2051,View Cove, AK
+2052,Chomondely Sound, AK
+2053,Kaktovik, AK
+2054,Cape Simpson, AK
+2055,Kogru River, AK
+2056,Funter Bay Alaska, AK
+2057,Karta Lake, AK
+2058,Donlin Creek, AK
+2059,Haycock, AK
+2060,Andrews, TX
+2061,Big Mountain, AK
+2062,Granite Point, AK
+2063,Peard Bay, AK
+2064,Chatham, AK
+2065,Northeast Cape, AK
+2066,Shisholik, AK
+2067,Kugururok River, AK
+2068,Nimiuk Point, AK
+2069,Sealing Point, AK
+2070,Lik Camp, AK
+2071,Port Frederick, AK
+2072,Rodman Bay, AK
+2073,Duncan Canal, AK
+2074,Cooper Lodge, AK
+2075,Inagok, AK
+2076,Vrems, AK
+2077,Nixon Fork Mine, AK
+2078,Attu, AK
+2079,Clover Bay, AK
+2080,Cinder River Lodge, AK
+2081,Yantarni Bay, AK
+2082,Shirleyville, AK
+2083,Jensens Strip, AK
+2084,Chomley, AK
+2085,Lancaster Cove, AK
+2086,Talladega, AL
+2087,Red Lake, AK
+2088,Chilkat Lake, AK
+2089,Nugget Creek, AK
+2090,Brooks Lake, AK
+2091,Bible Camp, AK
+2092,Danger Bay, AK
+2093,Tanalian Point, AK
+2094,Meshik, AK
+2095,Puale Bay, AK
+2096,Blair Lakes, AK
+2097,Taos, NM
+2098,Alliance, NE
+2099,Chadron, NE
+2100,Rutland, VT
+2101,Brownwood, TX
+2102,Alexandria, MN
+2103,Eastsound, WA
+2104,Friday Harbor, WA
+2105,Bar Harbor, ME
+2106,Block Island, RI
+2107,Westerly, RI
+2108,Bishop, CA
+2109,Glasgow, MT
+2110,Havre, MT
+2111,Lewistown, MT
+2112,Miles City, MT
+2113,Wolf Point, MT
+2114,Sidney, MT
+2115,Brookings, SD
+2116,Princeton/Bluefield, WV
+2117,Blakely Island, WA
+2118,Roche Harbor, WA
+2119,Salmon, ID
+2120,Rockland, ME
+2121,Laurel, MS
+2122,Salisbury, MD
+2123,Anacortes, WA
+2124,St. George, UT
+2125,Eureka, CA
+2126,Council, AK
+2127,Hilton Head, SC
+2128,Columbus, IN
+2129,Sidney, NE
+2130,Kimball, NE
+2131,Albany/Corvallis, OR
+2132,New Smyrna Beach, FL
+2133,Kearney, NE
+2134,Ironwood, MI
+2135,Kirksville, MO
+2136,Havasupai, AZ
+2137,Devils Lake, ND
+2138,Homeshore, AK
+2139,Fort Pierce, FL
+2140,Stuart, FL
+2141,Ventura, CA
+2142,Lake Union Seaplane Base, WA
+2143,Whitmore, AZ
+2144,Kayenta, AZ
+2145,Monument Valley, UT
+2146,Glendive, MT
+2147,La Grande, OR
+2148,Omak, WA
+2149,Mccarthy, AK
+2150,Cheboygan, MI
+2151,Hamilton, OH
+2152,Hana, HI
+2153,Norfolk, NE
+2154,Ponca City, OK
+2155,Vernal, UT
+2156,Yankton, SD
+2157,Sedalia, MO
+2158,Peach Springs, AZ
+2159,Hualapai, AZ
+2160,Ukiah, CA
+2161,Elkhart, IN
+2162,Aleneva, AK
+2163,May Creek, AK
+2164,Yuma M. C. A. S., AZ
+2165,Visalia, CA
+2166,Oak Harbor, WA
+2167,Ofu, TT
+2168,Manistee/Ludington, MI
+2169,Roseburg, OR
+2170,Decatur Shores, WA
+2171,Park Rapids, MN
+2172,Tau, TT
+2173,Shell Lake, AK
+2174,Vieques, PR
+2175,Artesia, NM
+2176,Lexington, NE
+2177,Provincetown, MA
+2178,Corner Bay, AK
+2179,Dalton, GA
+2180,Blackfoot, ID
+2181,Woodlake, CA
+2182,Lewiston/Auburn, ME
+2183,Rome, GA
+2184,Sivinuvik, AK
+2185,Ashland, OR
+2186,Port Townsend, WA
+2187,Ellensburg, WA
+2188,Garrison, ND
+2189,Granite Mountain, AK
+2190,Livingston, MT
+2191,Stevensville, MT
+2192,Mccall, ID
+2193,Ugashik, AK
+2194,Richmond, IN
+2195,Fergus Falls, MN
+2196,Lawrenceburg, TN
+2197,Donlin Creek Mine, AK
+2198,Chiloquin, OR
+2199,Greybull, WY
+2200,Lancaster, OH
+2201,Lake Jackson, TX
+2202,Malta, MT
+2203,China Lake, CA
+2204,Burley/Rupert, ID
+2205,Lakeport, CA
+2206,Show Low, AZ
+2207,Baker, OR
+2208,Belaga, Malaysia
+2209,Buenos Aires, Costa Rica
+2210,Lubang, Philippines
+2211,Lugano, Switzerland
+2212,Castlebar, Ireland
+2213,Diqing, China
+2214,Divo, Cote d Ivoire (formerly Ivory Coast)
+2215,Prestwick, United Kingdom
+2216,Yinchuan, China
+2217,Alghero/Sassari, Italy
+2218,Capanda, Angola
+2219,Provideniya, Russia (Asian)
+2220,Pietersburg, Republic Of South Africa
+2221,Miyake Jima, Japan
+2222,Kaunas, Lithuania
+2223,Nakhon Ratchasima, Thailand
+2224,Izmir, Turkey
+2225,Nykoping, Sweden
+2226,Port Gentil, Gabon
+2227,Rio Negrinho, Brazil
+2228,Kaieteur, Guyana
+2229,Spanish Wells, Bahamas
+2230,Shaoguan, China
+2231,Ceres, Argentina
+2232,Courchevel, France
+2233,Bellavista, Peru
+2234,Sanandaj, Iran
+2235,Kitale, Kenya
+2236,Sligo, Ireland
+2237,Lecce, Italy
+2238,Nambaiyufa, Papua New Guinea
+2239,Southend-On-Sea, United Kingdom
+2240,Sena Madureira, Brazil
+2241,Dos Lagunas, Guatemala
+2242,Biloela, Australia
+2243,Stawell, Australia
+2244,Isle Baltra, Ecuador
+2245,Kingscote, Australia
+2246,Tsumeb, Namibia
+2247,Silistra, Bulgaria
+2248,Santa Rosalia, Colombia
+2249,Caherciveen, Ireland
+2250,Danang, Vietnam
+2251,Figari, France
+2252,Babelegi, Republic Of South Africa
+2253,Songea, Tanzania
+2254,Marakei, Kiribati (Gilbert and Canton Islands)
+2255,Orange Walk, Belize
+2256,San Juan Aposento, Peru
+2257,Shimojishima, Japan
+2258,San Pablo, Spain
+2259,Sabiha Gokcen, Turkey
+2260,Kenema, Sierra Leone
+2261,Dumaguete, Philippines
+2262,Chalons Sur Marne, France
+2263,Monte Caseros, Argentina
+2264,So.Pines/Pinhrst/Aberdeen, NC
+2265,Saarbrucken, Germany
+2266,Carroll, IA
+2267,Arrabury, Australia
+2268,Al-Fujairah, United Arab Emirates
+2269,Linz, Austria
+2270,Manicouagan, Canada
+2271,Inverness, United Kingdom
+2272,Chiayi, Taiwan
+2273,Hookers Creek, Australia
+2274,North Eleuthera, Bahamas
+2275,North Seaplane Base, Bahamas
+2276,Nassau/Paradise Island, Bahamas
+2277,Maota, Western Samoa
+2278,Yaounde, Cameroons
+2279,Wheeling, WV
+2280,Taipei, Taiwan
+2281,Tinak, Marshall Islands
+2282,Walker's Cay, Bahamas
+2283,Pico Island, Portugal
+2284,Malabo, Equatorial Guinea
+2285,Miyanmin, Papua New Guinea
+2286,Filton, United Kingdom
+2287,Tbilisi, Georgia
+2288,State College, PA
+2289,Coleman, TX
+2290,Fort Drum, NY
+2291,Ephrata/Moses Lake, WA
+2292,Fajardo, PR
+2293,Frederick, OK
+2294,Snettisham, AK
+2295,Frankfort, KY
+2296,Aztec, NM
+2297,Circle, MT
+2298,Kalaupapa, HI
+2299,Gadsden, AL
+2300,Waterville, WA
+2301,Mariposa, CA
+2302,Livermore, CA
+2303,Marion, OH
+2304,Port Vita, AK
+2305,Lewisburg, WV
+2306,Sturgis, MI
+2307,Jerome, ID
+2308,Red Bluff, CA
+2309,Willits, CA
+2310,Gasquet, CA
+2311,Cloverdale, CA
+2312,Paradise, CA
+2313,San Clemente Island, CA
+2314,Buffalo, WY
+2315,Hermiston, OR
+2316,Lancaster, CA
+2317,Arley Lake, AK
+2318,Springfield, TN
+2319,Peru, IL
+2320,Palmdale, CA
+2321,Puviaq, AK
+2322,Sebastian, FL
+2323,Kako, AK
+2324,Kodiak Island, AK
+2325,Delta Junction, AK
+2326,Annex Creek, AK
+2327,Arlington, TX
+2328,Danville, KY
+2329,Sandusky, OH
+2330,Roxboro, NC
+2331,Chitina, AK
+2332,Mcminnville, TN
+2333,Kahli Cove, AK
+2334,Eagle Harbor, AK
+2335,Westhampton, NY
+2336,Greens Creek, AK
+2337,Sedona, AZ
+2338,Hanus Bay, AK
+2339,Lakeland, FL
+2340,Vichy, MO
+2341,Mount Vernon, WA
+2342,Burlington, WA
+2343,Lebanon, TN
+2344,Eveleth, MN
+2345,Bell Creek, AK
+2346,Apalachicola, FL
+2347,Gaylord, MI
+2348,Clear, AK
+2349,Hood Bay, AK
+2350,Marble Canyon, AZ
+2351,Rogers, AR
+2352,Driftwood Bay, AK
+2353,Oliktok, AK
+2354,Whitebear, AK
+2355,Big Lake, AK
+2356,Boulder City, NV
+2357,Kelp Bay, AK
+2358,Tracy Arm, AK
+2359,Saginaw Bay, AK
+2360,Whalers Cove Lodge, AK
+2361,Marrietta, GA
+2362,Cape Yakataga, AK
+2363,Fire Cove, AK
+2364,Galesburg, IL
+2365,Indian Springs, NV
+2366,Gwinner, ND
+2367,Jackson, MS
+2368,Morganton, NC
+2369,Grenada, MS
+2370,Lost River, AK
+2371,Mesquite, NV
+2372,Cinnabar, AK
+2373,Mountaintop Mine, AK
+2374,47-Mile Mine, AK
+2375,Ivotuk, AK
+2376,Ayakulik River, AK
+2377,Kiluda Bay, AK
+2378,Terror Lake, AK
+2379,Afognak Straits, AK
+2380,San Juan, AK
+2381,Glens Falls, NY
+2382,Frazer Lake, AK
+2383,Mesquite, TX
+2384,Rantoul, IL
+2385,Cape Sabine, AK
+2386,Eight Fathom Bght, AK
+2387,Summit, AK
+2388,Fond Du Lac, WI
+2389,Klag Bay, AK
+2390,Chesapeake, VA
+2391,Clearfield, PA
+2392,Comanche, TX
+2393,Keene, NH
+2394,Natchez, MS
+2395,Molly Creek, AK
+2396,Dunkirk, NY
+2397,Oceana, VA
+2398,Davidson Creek, AK
+2399,Washington Court House, OH
+2400,Holland, MI
+2401,Stepovak, AK
+2402,Pittsfield, MA
+2403,Santa Ynez, CA
+2404,Katmai Bay, AK
+2405,Sterling, CO
+2406,Apple Valley, CA
+2407,Laura Lake, AK
+2408,Zuni Pueblo, NM
+2409,Kankakee, IL
+2410,Prairie Du Chien, WI
+2411,Salinas/Monterey, CA
+2412,Safford, AZ
+2413,Frankfort, IN
+2414,Brookings, OR
+2415,Fortuna, CA
+2416,Pogo Mines, AK
+2417,Poplar, MT
+2418,Henderson, NV
+2419,Port Alice, AK
+2420,Russellville, KY
+2421,Pine Bluff, AR
+2422,Statesboro, GA
+2423,Polk Inlet, AK
+2424,Lawrenceville, IL
+2425,Powell, WY
+2426,Fremont, NE
+2427,Lafayette, GA
+2428,Nasa Shuttle Landing, FL
+2429,Covington, TN
+2430,Watsonville, CA
+2431,Georgetown, Guyana
+2432,Avalon, Australia
+2433,Zorg En Hoop Airport, Surinam
+2434,St. Barthelemy, Guadeloupe-France
+2435,Andahuaylas, Peru
+2436,Zamboanga, Philippines
+2437,St Martin, Guadeloupe-France
+2438,Gdansk, Poland
+2439,Gunsan, South Korea
+2440,Jersey, United Kingdom
+2441,Tangier, Morocco
+2442,Beirut, Lebanon
+2443,Great Harbour Cay, Bahamas
+2444,Nanjing, China
+2445,Phnom Penh, Democratic Kampuchea (Cambodia)
+2446,Tofino, Canada
+2447,Harbour Island, Bahamas
+2448,Bimini, Bahamas
+2449,Santa Cruz, Argentina
+2450,San Jose, Guatemala
+2451,Kimsomolsk Na Amure, Russia (European)
+2452,Sarnia, Canada
+2453,Solwezi, Zambia
+2454,Newton, KS
+2455,Bhubaneswar, India
+2456,Canberra, Australia
+2457,Santa Monica, CA
+2458,Adana, Turkey
+2459,Hornepayne, Canada
+2460,Bardstown, KY
+2461,Black River Falls, WI
+2462,Parowan, UT
+2463,Hanford, CA
+2464,St.Thomas, VI
+2465,Indiana, PA
+2466,Concord, NH
+2467,Rawlins, WY
+2468,Borrego Springs, CA
+2469,Camarillo, CA
+2470,Lock Haven, PA
+2471,Taylor, AZ
+2472,Cadillac, MI
+2473,Clifton, AZ
+2474,Cotulla, TX
+2475,Smithfield, NC
+2476,Orangeburg, SC
+2477,Hastings, NE
+2478,Denver City, TX
+2479,Rowan Bay, AK
+2480,Sterling/Rock Falls, IL
+2481,Death Valley, CA
+2482,Elizabethtown, KY
+2483,Sparta, TN
+2484,Shelby, NC
+2485,Goshen, IN
+2486,Sanford, ME
+2487,Coffeyville, KS
+2488,Alyeska, AK
+2489,Ganes Creek, AK
+2490,Hutchinson, KS
+2491,Lemoore, CA
+2492,Lewisburg, TN
+2493,Parks, AK
+2494,Big River, AK
+2495,Manassas, VA
+2496,Bellefontaine, OH
+2497,Auburn, IN
+2498,Richmond, KY
+2499,Peachtree City, GA
+2500,Tifton, GA
+2501,Pulaski, TN
+2502,Taylor, AK
+2503,Marion / Wytheville, VA
+2504,Valparaiso, IN
+2505,Sherman-Denison, TX
+2506,Tullahoma, TN
+2507,Kantishna, AK
+2508,Teshepkuk Lake, AK
+2509,Bornite/Ruby Creek, AK
+2510,Belmar, NJ
+2511,Mckinley Park, AK
+2512,Portland, TN
+2513,Paimiut, AK
+2514,Westsound, WA
+2515,Rosario, WA
+2516,Salmon Bay Lake, AK
+2517,Port Hobron, AK
+2518,Lake Florence, AK
+2519,Lake Hasselborg, AK
+2520,Distin Lake, AK
+2521,Marvel Creek Mine, AK
+2522,Winslow, AZ
+2523,Boyne Mountain, MI
+2524,Shenandoah, IA
+2525,El Capitan, AK
+2526,Tokeen, AK
+2527,Laconia, NH
+2528,Clinton, IN
+2529,Moffet Bay, AK
+2530,Oceano, CA
+2531,Mesa, AZ
+2532,Paris, TN
+2533,Lake Of The Ozarks, MO
+2534,Icy Bay, AK
+2535,St. Augustine, FL
+2536,Meadville, PA
+2537,Norwich, NY
+2538,Winnsboro, SC
+2539,Lexington, TN
+2540,Pleasant Harbour, AK
+2541,Ruidoso, NM
+2542,Lawrence, KS
+2543,Johnstone Point, AK
+2544,Beatty, NV
+2545,Portsmouth, OH
+2546,Calexico, CA
+2547,Price, UT
+2548,Kabul, Afghanistan
+2549,Dammam, Saudi Arabia
+2550,Yosu, South Korea
+2551,Swindon, United Kingdom
+2552,Cunnamulla, Australia
+2553,Mansa, Zambia
+2554,Saidpur, Bangladesh
+2555,Gold Coast, Australia
+2556,The Bight, Bahamas
+2557,Monclova, Mexico
+2558,Oberpfaffenhofen, Germany
+2559,Iguazu, Argentina
+2560,Nanchong, China
+2561,Darwin, Australia
+2562,Northolt, United Kingdom
+2563,Podgorica, Serbia and Montenegro
+2564,Galapagos Islands, Ecuador
+2565,Kavalla, Greece
+2566,Bratislava, Slovakia
+2567,Olbia, Italy
+2568,Gibraltar, Gibraltar-UK
+2569,Katherine, Australia
+2570,Lake Simcoe, Canada
+2571,Kugluktuk/Coppermine, Canada
+2572,Dawson Creek, Canada
+2573,Stella Maris, Bahamas
+2574,Vava'u, Tonga
+2575,Gaithersburg, MD
+2576,Marysville, OH
+2577,Marysville, CA
+2578,Ankeny, IA
+2579,Borger, TX
+2580,Chillicothe, OH
+2581,Wisconsin Rapids, WI
+2582,Rexburg, ID
+2583,Mount Sterling, KY
+2584,Colstrip, MT
+2585,Big Bay, AK
+2586,Wiseman, AK
+2587,Wien Lake, AK
+2588,Searcy, AR
+2589,Henderson, KY
+2590,Madisonville, KY
+2591,Port Isabel, TX
+2592,Bandon, OR
+2593,Taylor Mountain Mine, AK
+2594,International Seafoods, AK
+2595,Ivatuk, AK
+2596,Palacious, TX
+2597,Labouchere Bay, AK
+2598,Ptarmigan Lake, AK
+2599,Walnut Ridge, AR
+2600,Louisville, MS
+2601,La Verne, CA
+2602,Hog River, AK
+2603,Blear Lake, AK
+2604,Bear Lake, AK
+2605,Cosna River, AK
+2606,Cape Sarichef, AK
+2607,Cabarrus, NC
+2608,Sandy River, AK
+2609,Conway, AR
+2610,West Memphis, AR
+2611,Wilkesboro, NC
+2612,Ninilchik, AK
+2613,Yukon Charley Rivvers, AK
+2614,Glasgow, KY
+2615,Hallo Bay, AK
+2616,Cannery Bay, AK
+2617,Karluk Portage, AK
+2618,Karluk Lake, AK
+2619,Hope, AK
+2620,Viekoda Bay, AK
+2621,Overton, NV
+2622,Williams, AZ
+2623,NULL
+2624,Reedsville, PA
+2625,Grosvenor, AK
+2626,Medan, Indonesia
+2627,Erdenet, Mongolia
+2628,Rouyn Noranda, Canada
+2629,Currituck, NC
+2630,Avignon, France
+2631,Mamburao, Philippines

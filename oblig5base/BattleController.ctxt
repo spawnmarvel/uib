@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=gui\ bf
+comment0.target=BattleController(GUI,\ Battlefield)
+comment0.text=\nconstructor\ for\ objects\ of\ class\ BattleController\n@param\ gui\ The\ GUI\ to\ display\ the\ information\ in\ the\ game\n@param\ bf\ The\ Battlefield\ with\ the\ player\ and\ the\ monsters\n\n
+comment1.params=e
+comment1.target=void\ actionPerformed(ActionEvent)
+comment1.text=\nThe\ method\ for\ handling\ ActionEvents,\ such\ as\ clicked\ buttons.\ Defined\ in\ the\ ActionListener\ interface\n@param\ e\ The\ ActionEvent.\ The\ element\ the\ action\ is\ invoked\ on\ must\ have\ a\ listener\ to\ register\ the\ ActionEvent\n\n
+comment2.target=void\ saveToFile()
+comment2.text=\nSaves\ the\ Battlefield\ object\ to\ disk.\n\n
+comment3.target=void\ readFromFile()
+comment3.text=\nReads\ a\ Battlefield\ object\ from\ disk.\n\n
+comment4.target=void\ attackRound()
+comment4.text=\nHandles\ one\ rund\ of\ attack.\ Logic\ that\ was\ previously\ in\ the\ Battlefield\ class\n\n
+comment5.params=c1\ c2
+comment5.target=void\ hit(Character,\ Character)
+comment5.text=\nA\ method\ for\ one\ Character\ to\ hit\ another\ Character.\ Deals\ damage,\ updates\ the\ health\ngraphics\ and\ writes\ the\ event\ to\ the\ bottom\ of\ the\ screen\n@param\ c1\ The\ Character\ that\ attacks\n@param\ c2\ The\ Character\ that\ is\ attacked\n\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Game\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment1.text=\nMain\ method\ for\ this\ RPG\nCreates\ a\ Player,\ a\ Battlefield\ (which\ in\ turn\ creates\ some\ Monsters,\ a\ GUI\ and\ a\ BattleController\ to\ start\ the\ game\n\n@param\ String[]\ args\n\n
+numComments=2

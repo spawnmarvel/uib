@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=Battlefield(Player)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Battlefield\n@param\ player\ The\ player\ that\ will\ fight\ monsters\ in\ the\ RPG\n\n
+comment1.params=monster
+comment1.target=void\ addMonster(Monster)
+comment1.text=\nAdding\ monsters\ to\ the\ battlefield\n@param\ monster\ An\ instance\ of\ class\ monster\ that\ will\ be\ added\ to\ the\ collection.\n\n
+comment2.target=void\ setCurrentMonster()
+comment2.text=\nSelects\ a\ random\ monster\ from\ the\ available\ monsters\n@return\ monster\ A\ monster\ from\ the\ collection\ or\ null\ if\ the\ collection\ is\ empty.\n\n
+comment3.target=Monster\ getCurrentMonster()
+comment3.text=\nReturns\ the\ current\ active\ Monster\ from\ the\ Battlefield\n@return\ the\ current\ Monster\n\n
+comment4.params=monster
+comment4.target=void\ removeMonster(Monster)
+comment4.text=\nRemoves\ a\ monster\ from\ the\ collection.\n@param\ monster\ the\ monster\ to\ be\ removed.\n\n
+comment5.target=Player\ getPlayer()
+comment5.text=\nReturns\ the\ Player\ who's\ currently\ fighting\ in\ the\ arena\n@return\ Player\n\n
+comment6.target=void\ fillMonsters()
+comment6.text=\nCreates\ a\ couple\ of\ (cookie)\ monsters\ so\ that\ the\ hero\ has\ someone\ to\ fight\ when\ he\ enters\ the\ arena\n\n
+numComments=7

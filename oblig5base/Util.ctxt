@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=String\ checkString(String)
+comment0.text=\nMethod\ that\ checks\ the\ length\ of\ a\ string\n@param\ input\ The\ input\ of\ a\ string\n@return\ input\ or\ "Unspecified"\n\n
+comment1.params=input
+comment1.target=int\ checkNotNegativeInt(int)
+comment1.text=\nMethod\ that\ checks\ that\ the\ input\ is\ a\ positive\ integer.\n@param\ input\ The\ input\ of\ an\ int\n@return\ input\ or\ 0\n\n
+numComments=2

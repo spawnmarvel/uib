@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=ch
+comment0.target=Card(Character)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Card\n@param\ ch\ A\ Character\ object\n\n
+comment1.params=ch
+comment1.target=void\ makeCard(Character)
+comment1.text=\nThe\ nuts\ and\ bolts\ of\ setting\ up\ a\ Card.\ Called\ directly\ from\ the\ constructor\n\n
+comment2.target=JPanel\ getCardFace()
+comment2.text=\nReturn\ the\ cardFace\ of\ a\ Card\n@return\ the\ Card's\ cardFace\n\n
+comment3.target=void\ updateHealth()
+comment3.text=\nUpdates\ the\ health\ label\ and\ health\ bar\ for\ a\ character\ in\ the\ game\ when\ hit.\n\n
+comment4.target=void\ updateHealthLabel()
+comment4.text=\nSets\ the\ healthLabel\ to\ the\ current\ correct\ value\n\n
+comment5.target=void\ updateHealthBar()
+comment5.text=\nSets\ the\ healthBar\ to\ the\ current\ correct\ value\n\n
+comment6.target=Character\ getCharacter()
+comment6.text=\nReturns\ the\ Character\ the\ Card\ is\ about\n@return\ the\ Character\n\n
+numComments=7

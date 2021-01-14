@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=img
+comment0.target=ImagePanel(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ ImagePanel\n@param\ img\ The\ relative\ address\ of\ the\ image\ (img/filename.img)\n\n
+comment1.params=img
+comment1.target=ImagePanel(Image)
+comment1.text=\nConstructor\ for\ objects\ of\ class\ ImagePanel\n@param\ img\ An\ Image\ from\ java.awt.Image\n\n
+comment2.params=g
+comment2.target=void\ paintComponent(Graphics)
+comment2.text=\nDraws\ a\ component,\ such\ as\ an\ image\n@param\ g\ The\ Graphics\ element\ to\ be\ drawn\n\n
+numComments=3

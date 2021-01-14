@@ -1,0 +1,1 @@
+To run program, run main method from Game class

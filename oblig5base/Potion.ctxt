@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=name\ description\ action\ value\ replenish
+comment0.target=Potion(String,\ String,\ String,\ int,\ int)
+comment0.text=\nThe\ constructor\ of\ class\ Potion\n@param\ name\ The\ name\ of\ a\ potion\n@param\ description\ The\ description\ of\ a\ potion\n@param\ action\ The\ action\ of\ a\ potion\n@param\ value\ The\ value\ of\ a\ potion\n@param\ replenish\ The\ amount\ of\ health\ a\ potion\ replenishes\n\n
+comment1.params=replenish
+comment1.target=void\ setReplenish(int)
+comment1.text=\nSets\ the\ amount\ of\ health\ a\ potion\ replenishes\n@param\ replenish\ The\ amount\ of\ health\ replenished\n\n
+comment2.target=int\ getReplenish()
+comment2.text=\nGets\ the\ amount\ of\ health\ a\ potion\ replenishes\n@return\ replenish\ The\ amount\ of\ health\ replenished\n\n
+numComments=3

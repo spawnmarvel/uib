@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name\ maxDamage\ minDamage\ health\ gold\ img
+comment0.target=Monster(String,\ int,\ int,\ int,\ int,\ String)
+comment0.text=\nConstructor\ of\ objects\ of\ class\ Monster\n@param\ name\ The\ monster's\ name\n@param\ maxDamage\ The\ maximum\ damage\ the\ monster\ can\ do\n@param\ minDamage\ The\ minimum\ damage\ the\ monster\ can\ do\n@param\ health\ The\ health\ of\ the\ monster\n@param\ gold\ The\ gold\ of\ the\ monster\ that\ any\ player\ who\ kills\ it\ receives\n@param\ img\ The\ name\ of\ an\ image\ in\ the\ /img\ folder\ to\ be\ used\ as\ a\ monster's\ "profile\ picture"\n\n
+comment1.target=void\ findDifficulty()
+comment1.text=\nSets\ the\ difficulty\ of\ a\ monster\ based\ on\ the\ monster's\ max\ damage\ and\ health\n\n
+comment2.target=String\ getDifficulty()
+comment2.text=\nReturns\ the\ monster's\ difficulty\n@return\ The\ monster's\ difficulty\n\n
+comment3.target=String\ toString()
+comment3.text=\nRepresents\ the\ Monster\ object\ as\ a\ string\n\n
+numComments=4
